@@ -1,0 +1,10 @@
+C:\Users\Abir\Desktop\Abir\bin\Debug\netcoreapp2.0\Abir.deps.json
+C:\Users\Abir\Desktop\Abir\bin\Debug\netcoreapp2.0\Abir.runtimeconfig.json
+C:\Users\Abir\Desktop\Abir\bin\Debug\netcoreapp2.0\Abir.runtimeconfig.dev.json
+C:\Users\Abir\Desktop\Abir\bin\Debug\netcoreapp2.0\Abir.dll
+C:\Users\Abir\Desktop\Abir\bin\Debug\netcoreapp2.0\Abir.pdb
+C:\Users\Abir\Desktop\Abir\obj\Debug\netcoreapp2.0\Abir.csproj.CoreCompileInputs.cache
+C:\Users\Abir\Desktop\Abir\obj\Debug\netcoreapp2.0\Abir.AssemblyInfoInputs.cache
+C:\Users\Abir\Desktop\Abir\obj\Debug\netcoreapp2.0\Abir.AssemblyInfo.cs
+C:\Users\Abir\Desktop\Abir\obj\Debug\netcoreapp2.0\Abir.dll
+C:\Users\Abir\Desktop\Abir\obj\Debug\netcoreapp2.0\Abir.pdb
